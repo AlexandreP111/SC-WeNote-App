@@ -1,0 +1,3 @@
+const SERVER_ADDRESS = "http://192.168.68.103:7501";
+
+export { SERVER_ADDRESS };
