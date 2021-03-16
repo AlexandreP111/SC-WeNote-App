@@ -1,7 +1,7 @@
 # WeNote App
 React-Native app for collaborative notes
 
-Here's a [Youtube video](https://www.youtube.com/watch?v=BH4O61eYd1s) showing the working application.
+Here's a [Youtube video](https://www.youtube.com/watch?v=C24jKVC7ugw) showing the working application.
 
 
 # Team
